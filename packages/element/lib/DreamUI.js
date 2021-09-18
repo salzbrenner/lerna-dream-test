@@ -1,0 +1,4 @@
+/**
+ * @name DreamUI
+ */
+Namespace('DreamUI');
