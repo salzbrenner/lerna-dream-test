@@ -18,6 +18,7 @@ DreamUI.Class(function ElementController({
     Inherit(this, Element);
     const _this = this;
 
+    console.log("TEST");
     /**
      * @property state {AppState}
      *
